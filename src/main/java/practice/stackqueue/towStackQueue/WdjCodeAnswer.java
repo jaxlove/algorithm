@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /**
  * @author wangdejun
- * @description: TODO description
+ * @description: 2各栈组成的队列 答案
  * @date 2020/8/20 18:15
  */
 public class WdjCodeAnswer {
