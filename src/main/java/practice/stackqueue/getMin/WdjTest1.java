@@ -3,6 +3,9 @@ package practice.stackqueue.getMin;
 /**
  * @author wangdejun
  * @description: getMin练习1
+ * 方案1：新增一个字段min,新增时，判断是否位最小值，保存最小值
+ *        移除时，需要循环遍历，判断是否移除了最小值，是否还有其他最小值
+ * 方案2：新增一个排序数组，每次新增/移除时，都将排序后的值保存到该数组
  * @date 2020/8/19 22:06
  */
 public class WdjTest1 {
