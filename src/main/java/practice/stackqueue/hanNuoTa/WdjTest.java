@@ -31,13 +31,9 @@ public class WdjTest {
         }
 
         private Integer getSecond() {
-
+            return null;
         }
 
-    }
-
-    static enum POSITION {
-        RIGHT, LEFT;
     }
 
 }
